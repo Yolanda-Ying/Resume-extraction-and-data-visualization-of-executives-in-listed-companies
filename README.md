@@ -1,6 +1,11 @@
 # Resume-extraction-and-data-visualization-of-executives-in-listed-companies
 Request+Beautifulsoup,Bi-LSTM+CRF, Neo4j
 
+环境配置：
+Tensorflow 1.13.1
+Numpy 1.18.4
+Pandas 1.0.4
+
 Part1:数据爬取，对应代码crawler.py
 Part2:数据预处理，对应代码data process.py,data prepare.py,data utils.py
 Part3:数据分析模型搭建，对应代码Model.py,Train.py
