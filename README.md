@@ -2,9 +2,10 @@
 Request+Beautifulsoup,Bi-LSTM+CRF, Neo4j
 
 环境配置：
-1. Tensorflow 1.13.1 
-2. Numpy 1.18.4 
-3. Pandas 1.0.4 
+1. Python 3.6
+2. Tensorflow 1.13.1 
+3. Numpy 1.18.4 
+4. Pandas 1.0.4 
 
 代码文件功能：
 1. 数据爬取，对应代码crawler.py
