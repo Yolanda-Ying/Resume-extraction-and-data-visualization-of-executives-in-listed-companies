@@ -13,13 +13,3 @@ Request+Beautifulsoup,Bi-LSTM+CRF, Neo4j
 3. 数据分析模型搭建，对应代码Model.py,Train.py
 4. 特征抽取和结构化存储，对应代码auto_annotation.py
 5. 数据可视化，对应代码Data visialization
-
-建议执行顺序：
-1. crawler.py
-2. data process.py
-3. data prepare.py
-4. data utils.py
-5. Model.py
-6. Train.py
-7. auto_annotation.py
-8. Data visialization
